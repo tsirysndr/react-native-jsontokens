@@ -25,6 +25,7 @@
     "elliptic": "^6.3.2",
     "key-encoder": "^1.1.6",
     "react-native-crypto": "^2.1.1",
+    "react-native-randombytes": "^3.0.0",
     "validator": "^7.0.0"
   },
   "description": "react-native library for encoding, decoding, and verifying JSON Web Tokens (JWTs)",
