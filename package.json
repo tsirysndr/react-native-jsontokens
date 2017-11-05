@@ -19,12 +19,11 @@
     "url": "https://github.com/realtsiry/react-native-jsontokens/issues"
   },
   "dependencies": {
-    "asn1.js": "^4.9.1",
     "base64url": "^2.0.0",
-    "crypto": "0.0.3",
     "elliptic": "^6.3.2",
-    "key-encoder": "^1.1.6",
+    "react-native-asn1.js": "^4.9.2",
     "react-native-crypto": "^2.1.1",
+    "react-native-key-encoder": "^1.1.6",
     "react-native-randombytes": "^3.0.0",
     "validator": "^7.0.0"
   },
@@ -80,5 +79,5 @@
     "prepublish": "npm run compile",
     "test": "npm run compile; node lib/test/index.js"
   },
-  "version": "0.7.6"
+  "version": "0.7.7"
 }

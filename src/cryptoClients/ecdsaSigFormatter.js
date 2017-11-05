@@ -1,6 +1,6 @@
 'use strict';
 
-var asn1 = require('asn1.js');
+var asn1 = require('react-native-asn1.js');
 
 function base64UrlEscape(str) {
   return str.replace(/\+/g, '-')

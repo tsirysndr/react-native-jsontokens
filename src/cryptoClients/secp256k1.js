@@ -2,7 +2,7 @@
 
 import { ec as EC } from 'elliptic'
 import { createHash } from 'react-native-crypto'
-import KeyEncoder from 'key-encoder'
+import KeyEncoder from 'react-native-key-encoder'
 import { isHexadecimal } from 'validator'
 
 import { derToJose, joseToDer } from './ecdsaSigFormatter'
