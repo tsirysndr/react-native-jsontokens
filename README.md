@@ -3,6 +3,9 @@
 
 React Native library for signing, decoding, and verifying JSON Web Tokens (JWTs)
 
+### NOTE
+This library requires [rn-nodeify](https://github.com/tradle/rn-nodeify)
+
 ### Installation
 
 ```
